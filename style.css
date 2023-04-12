@@ -137,6 +137,7 @@ h2{
                position: relative;
                left: 10%;
                margin: 30px 5% 30px;
+        overflow:hidden;
       
          }
          h5{
